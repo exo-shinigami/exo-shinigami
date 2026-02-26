@@ -64,21 +64,6 @@
 
 ---
 
-## ⏱️ WakaTime Coding Stats:
-> _Set up [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) GitHub Action to show live coding time below._
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake:
-> _Set up [snk](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid) GitHub Action to animate your contribution graph._
-
-![Snake animation](https://github.com/exo-shinigami/exo-shinigami/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
