@@ -103,7 +103,7 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exo-shinigami&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=exo-shinigami&theme=aura&hide_border=true&count_private=true" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=exo-shinigami&theme=aura&hide_border=true" width="49%" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exo-shinigami&theme=aura&hide_border=true&layout=compact" width="60%" />
@@ -114,7 +114,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exo-shinigami&theme=aura&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exo-shinigami&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 <br />
@@ -122,13 +122,13 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=exo-shinigami&theme=aura&no-frame=true&no-bg=true&margin-w=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=exo-shinigami&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" />
 </div>
 
 ---
 
 <div align="center">
 
-![Profile visitor counter](https://visitcount.itsvg.in/api?id=exo-shinigami&icon=9&color=10)
+![Profile Views](https://komarev.com/ghpvc/?username=exo-shinigami&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
