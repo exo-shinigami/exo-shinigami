@@ -36,6 +36,7 @@
 ## 💻 Tech Stack
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +50,7 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks & Platforms
+
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -60,6 +62,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases & Cloud
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -70,6 +73,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 
 ### Tools & Software
+
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -83,19 +87,23 @@
 ## 📌 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/exo-shinigami/KU-Pocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=KU-Pocket&theme=aura&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/exo-shinigami/SebaBD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=SebaBD&theme=aura&hide_border=true" width="49%" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/exo-shinigami/gambit-chess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=gambit-chess&theme=aura&hide_border=true" width="49%" />
-  </a>
-  <a href="https://github.com/exo-shinigami/VinCommerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=VinCommerce&theme=aura&hide_border=true" width="49%" />
-  </a>
+
+<a href="https://github.com/exo-shinigami/KU-Pocket">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=KU-Pocket&theme=aura&hide_border=true" width="49%" alt="KU-Pocket repository" />
+</a>
+<a href="https://github.com/exo-shinigami/SebaBD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=SebaBD&theme=aura&hide_border=true" width="49%" alt="SebaBD repository" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/exo-shinigami/gambit-chess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=gambit-chess&theme=aura&hide_border=true" width="49%" alt="Gambit Chess repository" />
+</a>
+<a href="https://github.com/exo-shinigami/VinCommerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=exo-shinigami&repo=VinCommerce&theme=aura&hide_border=true" width="49%" alt="VinCommerce repository" />
+</a>
+
 </div>
 
 ---
@@ -103,10 +111,14 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exo-shinigami&theme=aura&hide_border=true&count_private=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=exo-shinigami&theme=aura&hide_border=true" width="49%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exo-shinigami&theme=aura&hide_border=true&layout=compact" width="60%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=exo-shinigami&theme=aura&hide_border=true&count_private=true" width="49%" alt="GitHub statistics" />
+<img src="https://streak-stats.demolab.com/?user=exo-shinigami&theme=aura&hide_border=true" width="49%" alt="GitHub streak statistics" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exo-shinigami&theme=aura&hide_border=true&layout=compact" width="60%" alt="Most used programming languages" />
+
 </div>
 
 <br />
@@ -114,7 +126,9 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exo-shinigami&theme=react-dark" width="100%" />
+
+<img src="https://ghchart.rshah.org/a855f7/exo-shinigami" alt="GitHub contribution activity for exo-shinigami" width="100%" />
+
 </div>
 
 <br />
@@ -122,7 +136,9 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=exo-shinigami&theme=onedark&no-frame=true&no-bg=true&margin-w=6" />
+
+<img src="https://trophy.ryglcloud.net/?username=exo-shinigami&theme=onedark&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies for exo-shinigami" />
+
 </div>
 
 ---
